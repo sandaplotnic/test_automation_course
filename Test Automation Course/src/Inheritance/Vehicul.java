@@ -12,8 +12,8 @@ public class Vehicul {
         this.nrRoti = nrRoti;
     }
 
-    public void afiseazaDetaliiVehicul () {
-        System.out.println("Vehicul de culoare:"+ culoare +" cu numar de roti:" + nrRoti);
+    public void afiseazaDetaliiVehicul() {
+        System.out.println("Vehicul de culoare:" + culoare + " cu numar de roti:" + nrRoti);
 
     }
 }
