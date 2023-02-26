@@ -1,7 +1,7 @@
 package Polymorphism;
 
 public class Animal {
-    public void emiteSunet () {
+    public void emiteSunet() {
         System.out.println("Animalul emite sunet");
 
     }
